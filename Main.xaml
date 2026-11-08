@@ -79,7 +79,7 @@
       <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1156,1345.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1452.0000000000002,1345.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="scg:List(x:String)" Name="List" />
       <Variable x:TypeArguments="x:Boolean" Name="NameExists" />
@@ -102,7 +102,7 @@
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">ibra</InArgument>
           <InArgument x:TypeArguments="x:String">mo</InArgument>
-          <InArgument x:TypeArguments="x:String">ELHArras</InArgument>
+          <InArgument x:TypeArguments="x:String">TRIAL</InArgument>
         </scg:List>
       </uasc:AppendItemToCollection.Items>
     </uasc:AppendItemToCollection>
